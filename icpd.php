@@ -1,4 +1,4 @@
-<?
+<?php
 
 
 $usr = ""; // database user
@@ -133,3 +133,4 @@ function dateconvert($olddate)
 		 
 }
 
+?>
